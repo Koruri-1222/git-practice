@@ -1,6 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です
-hello world
+hello world! your mother is bitch!
 I am NOEZO is syabazo
 コンフリ発生
 
